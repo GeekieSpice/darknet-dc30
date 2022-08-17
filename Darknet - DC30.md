@@ -2,7 +2,7 @@
 
 
 - [ ] Boss Battle
-	- [ ] [[Boss Battle - Step 1]] Step 1 - 25 pts
+	- [ ] [[Boss Battle|Boss Battle - Step 1]] Step 1 - 25 pts
 - [ ] Agent Quest: Mad Hatter's Lair
 	- [ ] [[DTRH Bookshelf 1]] - 2 pts
 	- [x] [[Find Me]] - 2 pts
